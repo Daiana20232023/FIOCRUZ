@@ -1,0 +1,89 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Quadro-de-texto-b-sico {
+	border-style:solid;
+}
+p.Par-grafo-b-sico {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	text-align:center;
+}
+p.ParaOverride-2 {
+	text-align:justify;
+	text-align-last:justify;
+}
+span.CharOverride-1 {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	font-size:18px;
+}
+span.CharOverride-3 {
+	font-size:14px;
+}
+span.CharOverride-4 {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idContainer002 {
+	display:inline-block;
+	height:172px;
+	width:246px;
+}
+#_idContainer003 {
+	display:inline-block;
+	height:416px;
+	width:249px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-color:#f18848;
+	border-style:solid;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-2 {
+	background-color:#f18848;
+	border-bottom-left-radius:12px;
+	border-bottom-right-radius:12px;
+	border-color:#000000;
+	border-top-left-radius:12px;
+	border-top-right-radius:12px;
+	border-width:6px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
